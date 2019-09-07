@@ -1,8 +1,18 @@
+<<<<<<< HEAD
 # best_flutter_ui_templates
 
 A new Flutter application.
 
 ## Getting Started
+=======
+# Best-Flutter-UI-Animation-Samples
+The best UIs and Animations built in Flutter Dart. Completely free for everyone. <3
+
+![Image](Best-UIs-Animations-Flutter/assets/fitness_app/fitness_app.png)
+![Image](Best-UIs-Animations-Flutter/assets/design_course/design_course.png)
+
+### Some Animations
+>>>>>>> 1977ff1cd052c157979f0e1ae26de5b6b51ae464
 
 This project is a starting point for a Flutter application.
 
