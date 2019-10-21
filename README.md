@@ -2,6 +2,7 @@
 The best UIs and Animations built in Flutter Dart. Completely free for everyone. <3
 
 ## UIs
+![Image](assets/hotel/hotel_booking.png)
 ![Image](assets/fitness_app/fitness_app.png)
 ![Image](assets/design_course/design_course.png)
 
